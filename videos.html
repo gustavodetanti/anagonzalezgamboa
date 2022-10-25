@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ana González Gamboa</title>
+</head>
+
+<body>
+    <div class="iframes" style="padding:10px;border:1px solid black;">
+    </div>
+
+
+    <script>/*
+        let videos = [];
+        document.addEventListener("DOMContentLoaded", () => {
+            let ifr = document.querySelector(".iframes");
+
+            [...document.querySelectorAll('iframe')].forEach(function (i) {
+
+                i.removeAttribute('data-src');
+                let ds = i.getAttribute('src');
+                i.setAttribute('src', ds.split('?')[0]);
+                console.log(i.getAttribute('title'));
+let acode=i.getAttribute('src').split("/");
+let code=acode[acode.length-1];
+
+let im=`http://img.youtube.com/vi/${code}/0.jpg`;
+                videos.push({ youtube: i.getAttribute('src'), title: i.getAttribute('title'),thumb:im });
+
+            });
+
+console.log(JSON.stringify(videos,false,2));
+        })
+*/
+    </script>
+
+<script>
+
+
+    function videosLoaded(json){
+    let str='';
+    json.forEach(function(a){
+    
+    str+=`<div class='videos' data-src='${a.youtube}'><h3>${a.title}</h3>
+        <img src='${a.thumb}'></div>
+         `;
+     
+         
+    
+    
+    });
+    
+    document.querySelector('.iframes').innerHTML=str;
+    }
+    
+    document.addEventListener("DOMContentLoaded",()=>{
+        fetch("json/videos.json").then(data=>data.json()).then(json=>{
+        videosLoaded(json);
+    }).catch(err=>{
+        console.log(err); 
+    })
+    });
+    
+    
+    
+    </script>
+
+</body>
+
+
+
+</html>

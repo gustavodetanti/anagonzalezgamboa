@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' />
+
+    <link rel='stylesheet' href='css/main.css'>
+    <title>Ana González Gamboa</title>
+    <style>
+
+    </style>
+</head>
+
+<body>
+<header>
+    <div class='logo'>
+    [ Ana Gonzalez Gamboa ]
+</div>
+</header>
+<div class='content'>
+
+
+</div>
+<script>
+
+
+function agendaLoaded(json){
+let str='';
+json.forEach(function(a){
+
+str+=`<div class='agenda-year' data-year='${a.year}'><h3>${a.year}</h3>`;
+
+    a.events.forEach(function(e){
+str+=`<div class='agenda-date' data-date='${e.date}'><b>${e.date}</b><p>`;
+    e.lines.forEach(function(li){
+str+=`${li}<br>`;
+
+    });
+    str+=`</p></div>`;
+
+    });
+    
+    
+    str+=`</div><!-- end -->`;
+
+
+});
+
+document.querySelector('.content').innerHTML=str;
+}
+
+document.addEventListener("DOMContentLoaded",()=>{
+    fetch("json/agenda.json").then(data=>data.json()).then(json=>{
+    agendaLoaded(json);
+}).catch(err=>{
+    console.log(err); 
+})
+});
+
+
+
+</script>
+</body>
+
+</html>
