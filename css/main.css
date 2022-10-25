@@ -74,6 +74,35 @@ footer {
   padding: 18px 18px;
   margin: 100px 0 0;
 }
+div.logo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+  padding: 14px 0;
+  color: #000000;
+  z-index: 1000;
+}
+.content {
+  vertical-align: middle;
+  text-align: center;
+}
+.itemThumb {
+  vertical-align: middle;
+  display: inline-block;
+  margin: 2px 2px;
+  padding: 7px 7px;
+  width: 100%;
+  max-width: 320px;
+  min-height: 320px;
+  border: 1px solid #cccccc;
+}
+.itemThumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
 .VNav {
   position: absolute;
   top: 0;
@@ -95,4 +124,28 @@ footer {
   background-image: url("../img/th1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+}
+.NeGallery {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.NeGallery > div {
+  background-color: mediumseagreen;
+  width: 100%;
+  position: relative;
+  left: 0;
+  top: 0;
+  font-size: 0;
+}
+.NeGallery > div > div {
+  border: 1px solid red;
+  position: relative;
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+  max-width: 30%;
+}
+.NeGallery > div > div img {
+  width: 100%;
 }

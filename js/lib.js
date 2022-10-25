@@ -10,4 +10,7 @@ function getYoutubeCode(str){
     function getYoutubeIframe(code){
     return  `<iframe src="https://www.youtube.com/embed/${code}"></iframe>`;
     }
-    
+    function getYoutubeThumb(code){
+        return  `http://img.youtube.com/vi/${code}/0.jpg`;
+        }
+        //getYoutubeThumb(getYoutubeCode(url))

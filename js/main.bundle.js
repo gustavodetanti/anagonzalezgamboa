@@ -152,6 +152,9 @@
   // src/components/VNav.js
   function VNav(fn) {
     let nav = document.querySelector(".main-nav");
+    if (nav) {
+    } else
+      return "";
     let buts = [...nav.querySelectorAll("a")];
     let str = "";
     let n = buts.length;
