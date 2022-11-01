@@ -64,13 +64,13 @@
   function agendaLoaded(json) {
     let str = "";
     let txt = ``;
-    let years = '<a href="index.html">HOME</a><br><br>';
+    let years = '<a href="index.html" style="background-color:#77ff77;font-weight:600;">HOME</a><br><br>';
     json.forEach(function(a) {
       txt += "\n\n\n\n" + a.year + "\n\n";
       years += `<a href='#${a.year}'>${a.year}</a> <br><br> `;
       str += `
     <a name='${a.year}' ></a>
-    <div class='cerdaHorizontal' style='width:100px; height:50px;'>-</div>
+    <div class='cerdaHorizontal' style='width:180px; height:60px;'>-</div>
     <div class='agenda-year' data-year='${a.year}'><h2 style='color:#337733'><b>${a.year}</b></h2>`;
       a.events.forEach(function(e) {
         str += `<div class='agenda-date' data-date='${e.date}'><b>${e.date}</b><p>`;
