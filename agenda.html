@@ -9,56 +9,27 @@
     <link rel='stylesheet' href='css/main.css'>
     <title>Ana González Gamboa</title>
     <style>
-
+html{scroll-behavior: smooth;}
     </style>
 </head>
 
 <body>
-<header>
-    <div class='logo'>
-    [ Ana Gonzalez Gamboa ]
-</div>
-</header>
-<div class='content'>
+ 
+
+<div class='years' style='font-size:10px;width:80px;position: fixed; top:80px;left:8px;'></div>
+
+<div class='content agenda'>
 
 
 </div>
-<script>
 
 
-function agendaLoaded(json){
-let str='';
-json.forEach(function(a){
 
-str+=`<div class='agenda-year' data-year='${a.year}'><h3>${a.year}</h3>`;
-
-    a.events.forEach(function(e){
-str+=`<div class='agenda-date' data-date='${e.date}'><b>${e.date}</b><p>`;
-    e.lines.forEach(function(li){
-str+=`${li}<br>`;
-
-    });
-    str+=`</p></div>`;
-
-    });
-    
-    
-    str+=`</div><!-- end -->`;
-
-
-});
-
-document.querySelector('.content').innerHTML=str;
-}
-
-document.addEventListener("DOMContentLoaded",()=>{
-    fetch("json/agenda.json").then(data=>data.json()).then(json=>{
-    agendaLoaded(json);
-}).catch(err=>{
-    console.log(err); 
-})
-});
-
+<textarea></textarea>
+<br><br><br><br><br>
+<script src='js/lib.js'></script>
+<script src='js/main.bundle.js'></script>
+<script src='js/agenda.bundle.js'>
 
 
 </script>

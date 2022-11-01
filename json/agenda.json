@@ -43,7 +43,7 @@
                 "lines": [
                     "Sola set",
                     "mansión tifón",
-                    "(ramos mejía)"
+                    "( ramos mejía )"
                 ]
             },
             {
@@ -119,8 +119,9 @@
             },
             {
                 "date": "15/01-6/02",
+                
                 "lines": [
-                    "Residencia de composición en la Univerisdad Javeriana (Colombia)"
+                    "Residencia de composición en la Universidad Javeriana ( Colombia )"
                 ]
             }
         ]
@@ -134,8 +135,8 @@
                     "Estreno de",
                     "La forma es el residuo del azar para  ensamble",
                     "C.A.S.O- Casa del Bicentenario",
-                    "(Argentina)",
-                    "​"
+                    "( Argentina )",
+                    ""
                 ]
             },
             {
@@ -143,8 +144,8 @@
                 "lines": [
                     "VI Jornada de Lectura Abierta",
                     "con el cuarteto untref",
-                    "(xirgu.untref-Argentina)",
-                    "​"
+                    "( xirgu.untref-Argentina )",
+                    ""
                 ]
             },
             {
@@ -153,55 +154,54 @@
                     "Estreno de",
                     "\"A lo lejos,desgarrando la bruma\"",
                     "para orquesta.",
-                    "(Ecuador)"
+                    "( Ecuador )"
                 ]
             },
             {
                 "date": "08/10",
                 "lines": [
-                    "XIX El Festival Internacional de Música Electroacústica y Experimental Ai-Maako, (Chile)",
+                    "XIX El Festival Internacional de Música Electroacústica y Experimental Ai-Maako, ( Chile )",
                     "\"Habitar el entorno, respirar el espacio\"",
-                    "para 5 timbales y electrónica fija (online)",
-                    "​"
+                    "para 5 timbales y electrónica fija ( online )",
+                    ""
                 ]
             },
             {
                 "date": "20/08",
                 "lines": [
                     "Festival Internacional de Música",
-                    "Electroacústica (Argentina)",
+                    "Electroacústica ( Argentina )",
                     "\"Habitar el entorno, respirar el espacio\"",
                     "para 5 timbales y electrónica fija",
-                    "(Centro Cultural kirchner online)",
-                    "​"
+                    "( Centro Cultural kirchner online )",
+                    ""
                 ]
             },
             {
                 "date": "19-23/07",
                 "lines": [
                     "Taller de análisis y creación musical",
-                    "Universidad de Cuenca (Ec)",
-                    "(online)",
-                    "​"
+                    "Universidad de Cuenca ( Ec )",
+                    "( online )" ,""
                 ]
             },
             {
-                "date": "​21/05",
+                "date": "21/05",
                 "lines": [
-                    "Azur-semana de nueva creación",
-                    "Universidad de Cuenca (Ec)",
-                    "(online)",
-                    "​"
+                    "Azur, semana de nueva creación",
+                    "Universidad de Cuenca ( Ec )",
+                    "( online )",
+                    ""
                 ]
             },
             {
                 "date": "04/05",
                 "lines": [
                     "Podcast Sonidos de Ecuador",
-                    "Buh Records (Ec)",
-                    "(online)",
-                    "​",
-                    "​"
+                    "Buh Records ( Ec )",
+                    "( online )",
+                    "",
+                    ""
                 ]
             }
         ]
@@ -212,11 +212,11 @@
             {
                 "date": "28/11",
                 "lines": [
-                    "Ensamble NEO (Ar)",
+                    "Ensamble NEO ( Ar )",
                     "lejos de aquel lugar",
                     "para violoncello solo",
-                    "(online)",
-                    "​"
+                    "( online )",
+                    ""
                 ]
             },
             {
@@ -225,53 +225,53 @@
                     "Residencia",
                     "INVERTEBRA 1era Edición",
                     "Magma Centro de Artes",
-                    "​"
+                    ""
                 ]
             },
             {
                 "date": "19/10",
                 "lines": [
-                    "Micro ritual en casa (Ar) (online)",
-                    "​"
+                    "Micro ritual en casa ( Ar ) ( online )",
+                    ""
                 ]
             },
             {
                 "date": "15/09",
                 "lines": [
-                    "Ciclo Bahia in Sonora (Ar) (online)"
+                    "Ciclo Bahia in Sonora ( Ar ) ( online )"
                 ]
             },
             {
                 "date": "14/08",
                 "lines": [
-                    "Satelite Charlas compositivas (Ar) Podcast",
-                    "​",
-                    "​"
+                    "Satelite Charlas compositivas ( Ar ) Podcast",
+                    "",
+                    ""
                 ]
             },
             {
                 "date": "21/07",
                 "lines": [
                     "Paisajistas sonoras",
-                    "Radio Tsonami (CL) Podcast",
-                    "​",
-                    "​"
+                    "Radio Tsonami ( CL ) Podcast",
+                    "",
+                    ""
                 ]
             },
             {
                 "date": "20/04",
                 "lines": [
-                    "Concert from home (Ar)",
-                    "(online)",
-                    "​"
+                    "Concert from home ( Ar )",
+                    "( online )",
+                    ""
                 ]
             },
             {
-                "date": "​21/01",
+                "date": "21/01",
                 "lines": [
                     "Casa de la Música",
                     "Quito-Ecuador",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -279,7 +279,7 @@
                 "lines": [
                     "Museo Nacional del Ecuador",
                     "Quito-Ecuador",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -287,7 +287,7 @@
                 "lines": [
                     "Conservatorio Nacional de Música",
                     "Quito-Ecuador",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -295,7 +295,7 @@
                 "lines": [
                     "Casa del Portal",
                     "Ambato-Ecuador",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -303,7 +303,7 @@
                 "lines": [
                     "Universidad Nacional de Loja",
                     "Loja -Ecuador",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -311,7 +311,7 @@
                 "lines": [
                     "Universidad Nacional de Cuenca",
                     "Cuenca -Ecuador",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -333,7 +333,7 @@
                     "Biblioteca Nacional",
                     "Santiago-Chile",
                     "se posterga para marzo de 2020",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -342,7 +342,7 @@
                     "FrascoBosque",
                     "Ciclo manos y espiritu",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -352,7 +352,7 @@
                     "Centro Hipermediático Experimental Latinoamericano",
                     "E.T.C-Ensamble Tropi",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -369,7 +369,7 @@
                     "FrascoBosque",
                     "Batacazo Cutural",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -379,7 +379,7 @@
                     "Danza- música",
                     "Ciclo serpiente",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -388,7 +388,7 @@
                     "Concierto de Grado",
                     "paisaje ecuatorial",
                     "para 10 instrumentistas y electrónica",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -397,7 +397,7 @@
                     "FrascoBosque",
                     "Panda rojo cultural",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -407,7 +407,7 @@
                     "DANZA-MÚSICA -IMPROVISACIÓN",
                     "Tardes samurai",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -424,7 +424,7 @@
                     "FrascoBosque",
                     "Centro Cultural San Martín",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -433,7 +433,7 @@
                     "Germina.Cciones latinoamericanas",
                     "Residencia compositiva",
                     "Santiago-Chile",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -443,7 +443,7 @@
                     "DANZA-MÚSICA -IMPROVISACIÓN",
                     "Sala de Maquinas",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -452,7 +452,7 @@
                     "InTad Residencia",
                     "Manza de las luces",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -461,7 +461,7 @@
                     "FrascoBosque",
                     "1040 polo cultural",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -471,7 +471,7 @@
                     "Amar significa... renunciar a la fuerza",
                     "para flauta y electrónica en tiempo real",
                     "Bernal -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -481,7 +481,7 @@
                     "DANZA-MÚSICA -IMPROVISACIÓN",
                     "Teatro Mandril",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -490,16 +490,16 @@
                     "Residencia 2 - Ensamble Tropi",
                     "Sala sinfónica del Concervatorio Manuel de Falla",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
                 "date": "19/06",
                 "lines": [
-                    "Improvisación con Dario Dolchi (saxo)",
+                    "Improvisación con Dario Dolchi ( saxo )",
                     "Panda rojo cultural",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -509,7 +509,7 @@
                     "Nana Marina para 15 instrumentistas",
                     "Molinos royal de Chimbacalle",
                     "Quito - Ecuador",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -518,7 +518,7 @@
                     "Improvisación con Dario Dolchi",
                     "Centro cultural del sur",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -528,16 +528,16 @@
                     "DANZA-MÚSICA -IMPROVISACIÓN",
                     "Vuela el pez",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
                 "date": "03/02",
                 "lines": [
                     "Improritual 2",
-                    "Improvisación con Jimena Martín (voz)",
+                    "Improvisación con Jimena Martín ( voz )",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -546,7 +546,7 @@
                     "XIV Bienal de Cuenca",
                     "Planetario de la ciudad de Cuenca",
                     "Cuenca - Ecuador",
-                    "​"
+                    ""
                 ]
             }
         ]
@@ -564,9 +564,9 @@
             {
                 "date": "",
                 "lines": [
-                    "Cuarteto Maurice (Itália)",
+                    "Cuarteto Maurice ( Itália )",
                     "Choele Choel -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -575,7 +575,7 @@
                     "Distat Terra Festival",
                     "Compositora activa",
                     "Choele Choel -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -584,7 +584,7 @@
                     "Astrología en el museo",
                     "Museo de arte Contemporaneo",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -596,7 +596,7 @@
                     "para vibráfono",
                     "Pontificia Universidad Javeriana",
                     "Bogotá- Colombia",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -609,7 +609,7 @@
                     "Dolchi-saxo tenor",
                     "Chelo- Ana Gonzále Gamboa",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -619,7 +619,7 @@
                     "Laboratorio Éxodo",
                     "Sala de máquinas",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -631,7 +631,7 @@
                     "Ana Gonzalez-Cello",
                     "Centro Cultural  del Sur",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -640,14 +640,14 @@
                     "Miriada & Improvisadores varios",
                     "El Puente",
                     "Buenos Aires -Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
                 "date": "18-22/09",
                 "lines": [
                     "TACEC Generación",
-                    "Centro de Experimentación ( Teatro Argentino de La Plata)",
+                    "Centro de Experimentación ( Teatro Argentino de La Plata )",
                     "Compositora activa",
                     "La Plata -Argentina"
                 ]
@@ -656,14 +656,14 @@
                 "date": "13/09",
                 "lines": [
                     "Festival Ecuatoriano de Música Contemporánea",
-                    "Tono de RUCU (para percusión y quinteto de cuerdas)"
+                    "Tono de RUCU ( para percusión y quinteto de cuerdas )"
                 ]
             },
             {
                 "date": "",
                 "lines": [
                     "Quito -Ecuador",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -676,7 +676,7 @@
                     "Guillermo Novelli-Guitarra",
                     "UNA CASA",
                     "Buenos Aires - Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -686,7 +686,7 @@
                     "Manos y espíritu III",
                     "con Juan Mazzón ( guitarra eléctrica )",
                     "composiciones para chelo y guitarra eléctrica",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -697,7 +697,7 @@
                     "violoncello guitarra eléctrica",
                     "UNA CASA",
                     "Buenos Aires - Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -706,7 +706,7 @@
                     "I N D Ò M I T A P E R F O R M A N C E",
                     "Danza + violoncello + bandoneón",
                     "Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -716,7 +716,7 @@
                     "\"Verano inesperado\" para piano y saxo soprano",
                     "Universidad Nacional de Quilmes",
                     "Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -726,34 +726,34 @@
                     "\"Habitar el entorno respirar el espacio\" para orquesta y electrónica",
                     "Universidad Nacional de Quilmes",
                     "Argentina",
-                    "​"
+                    ""
                 ]
             },
             {
-                "date": "10-17",
+                "date": "10-17/06",
                 "lines": [
-                    "/06  Festival de las Artes",
-                    "ISA ( Instituto Superior de Artes)",
+                    "Festival de las Artes",
+                    "ISA ( Instituto Superior de Artes )",
                     "La Habana -Cuba",
-                    "​"
+                    ""
                 ]
             },
             {
                 "date": "29/03",
                 "lines": [
                     "Tradición y Nuevas Sonoridades",
-                    "ISA ( Instituto Superior de Artes)",
+                    "ISA ( Instituto Superior de Artes )",
                     "La Habana -Cuba",
-                    "​"
+                    ""
                 ]
             },
             {
                 "date": "21/02",
                 "lines": [
                     "Compositores",
-                    "ISA ( Instituto Superior de Artes)",
+                    "ISA ( Instituto Superior de Artes )",
                     "La Habana -Cuba",
-                    "​"
+                    ""
                 ]
             }
         ]
@@ -769,8 +769,8 @@
                     "para dúo de flautas Paetzold",
                     "instrumentistas: Alejandro Brianza y Gonzalo Ariel Juan",
                     "Universidad Nacional de Quilmes",
-                    "(Bernal - Argentina)",
-                    "​"
+                    "( Bernal - Argentina )",
+                    ""
                 ]
             },
             {
@@ -781,8 +781,8 @@
                     "para piano solo",
                     "Instrumentista: Leandro Rodríguez Jáuregui",
                     "Universidad Nacional de Quilmes",
-                    "(Bernal - Argentina)",
-                    "​"
+                    "( Bernal - Argentina )",
+                    ""
                 ]
             },
             {
@@ -792,7 +792,7 @@
                     "duo de cellos con Cecilia Quinteros",
                     "estudio temporal",
                     "( Morón - Argentina )",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -804,7 +804,7 @@
                     "Muestra colectiva, como parte de la Cátedra Política y Gestión de Eventos",
                     "- Maestría en Lenguajes Artísticos Combinados - UNA",
                     "( Buenos Aires - Argentina )",
-                    "​"
+                    ""
                 ]
             },
             {
@@ -812,8 +812,8 @@
                 "lines": [
                     "Walden Warnes",
                     "UNA CASA",
-                    "(Buenos Aires  Argentina )",
-                    "​"
+                    "( Buenos Aires  Argentina )",
+                    ""
                 ]
             },
             {
@@ -822,9 +822,9 @@
                     "Conciertos didácticos",
                     "Instituto Integral de Formación",
                     "composiciones para un violoncello solo",
-                    "(Buenos Aires - Argentina )",
-                    "​",
-                    "​"
+                    "( Buenos Aires - Argentina )",
+                    "",
+                    ""
                 ]
             },
             {
@@ -833,8 +833,8 @@
                     "Conciertos didácticos",
                     "Instituto Integral de Formación",
                     "composiciones para un violoncello solo",
-                    "(Buenos Aires - Argentina )",
-                    "​"
+                    "( Buenos Aires - Argentina )",
+                    ""
                 ]
             },
             {
@@ -843,8 +843,8 @@
                     "Conciertos didácticos",
                     "Instituto Integral de Formación",
                     "composiciones para un violoncello solo",
-                    "(Buenos Aires - Argentina )",
-                    "​"
+                    "( Buenos Aires - Argentina )",
+                    ""
                 ]
             },
             {
@@ -853,25 +853,25 @@
                     "Conciertos didácticos",
                     "Instituto Integral de Formación",
                     "composiciones para un violoncello solo",
-                    "(Buenos Aires - Argentina )",
-                    "​"
+                    "( Buenos Aires - Argentina )",
+                    ""
                 ]
             },
             {
                 "date": "15/07",
                 "lines": [
                     "MAPAS mercado de las artes performativas del atlántico sur",
-                    "(Tenerife - España )",
-                    "​",
-                    "​"
+                    "( Tenerife - España )",
+                    "",
+                    ""
                 ]
             },
             {
                 "date": "14/07",
                 "lines": [
                     "MAPAS mercado de las artes performativas del atlántico sur",
-                    "(Tenerife - España )",
-                    "​"
+                    "( Tenerife - España )",
+                    ""
                 ]
             },
             {
@@ -879,8 +879,8 @@
                 "lines": [
                     "Composiciones para un violoncello solo",
                     "el gato viejo",
-                    "(Buenos Aires - Argentina )",
-                    "​"
+                    "( Buenos Aires - Argentina )",
+                    ""
                 ]
             },
             {
@@ -890,11 +890,11 @@
                     "Concierto incentivo presenta dos obras, de estreno mundial, de dos jovenes compositores argentinos, para violoncello y batería. Obras encargadas por el estudio desvio temporal 2, con el fin de incentivar la creación musical. Dichos compositores son:",
                     "Catriel nievas - Forma extática",
                     "Emanuel Juliá - Ritual de arena",
-                    "​",
+                    "",
                     "Bateria: Marcelo von schultz",
                     "( Morón - Argentina )",
-                    "​",
-                    "​"
+                    "",
+                    ""
                 ]
             },
             {
@@ -903,8 +903,8 @@
                     "concierto acústico",
                     "duo de cellos con Cecilia Quinteros",
                     "POMO",
-                    "(Buenos Aires -Argentina)",
-                    "​"
+                    "( Buenos Aires -Argentina )",
+                    ""
                 ]
             },
             {
@@ -913,8 +913,8 @@
                     "Ciclo para improvisadores",
                     "cello solo",
                     "UNA CASA",
-                    "(Buenos Aires -Argentina)",
-                    "​"
+                    "( Buenos Aires -Argentina )",
+                    ""
                 ]
             },
             {
@@ -922,9 +922,9 @@
                 "lines": [
                     "Cello solo",
                     "EL POBRE DIABLO",
-                    "(Quito -Ecuador)",
-                    "​",
-                    "​"
+                    "( Quito -Ecuador )",
+                    "",
+                    ""
                 ]
             },
             {
@@ -932,10 +932,10 @@
                 "lines": [
                     "Festival Internacional de música y artes sonoras contemporáneas",
                     "Obras + sonus ensamble",
-                    "​",
+                    "",
                     "CASA DE LA CULTURA ECUAOTORINA NÚCLEO DEL AZUAY",
-                    "(Cuenca- Ecuador )",
-                    "​"
+                    "( Cuenca- Ecuador )",
+                    ""
                 ]
             },
             {
@@ -944,22 +944,22 @@
                     "Festival Internacional de música y artes sonoras contemporáneas",
                     "Obras:",
                     "-Colores suspendidos  comp. Ricardo de Armas",
-                    "​",
+                    "",
                     "-Runa Fractal comp. Daniel Flores Días",
-                    "​",
+                    "",
                     "-Composiciones para un violoncello solo",
                     "obra I Y II   comp.Ana Gonzalez G",
-                    "​",
+                    "",
                     "-Aquamarina comp. Marcelo villacis",
-                    "​",
+                    "",
                     "-Proemio comp. Jose Vitores",
-                    "​",
+                    "",
                     "-Hymnus II comp. Alfred Schnittke",
-                    "​",
+                    "",
                     "CASA DE LA CULTURA ECUAOTORINA NÚCLEO DEL AZUAY",
-                    "(Cuenca- Ecuador )",
-                    "​",
-                    "​"
+                    "( Cuenca- Ecuador )",
+                    "",
+                    ""
                 ]
             }
         ]
@@ -978,37 +978,37 @@
                 "date": "26/11",
                 "lines": [
                     "Encrucijada  Ciclo de improvisadores",
-                    "Una Casa (Buenos Aires-Argentina )"
+                    "Una Casa ( Buenos Aires-Argentina )"
                 ]
             },
             {
                 "date": "29/10",
                 "lines": [
-                    "Ciclo sonus – Edicion sur",
-                    "solo set  Composiciones para Cello/Solo",
-                    "Una Casa (Buenos Aires-Argentina )"
+                    "Ciclo sonus, Edicion sur",
+                    "solo set  Composiciones para Cello Solo",
+                    "Una Casa ( Buenos Aires-Argentina )"
                 ]
             },
             {
                 "date": "27/10",
                 "lines": [
                     "Telar -  extendido",
-                    "(Buenos Aires-Argentina )",
-                    "​"
+                    "( Buenos Aires-Argentina )",
+                    ""
                 ]
             },
             {
                 "date": "9/10",
                 "lines": [
                     "Telar",
-                    "ATOM (Buenos Aires-Argentina )"
+                    "ATOM ( Buenos Aires-Argentina )"
                 ]
             },
             {
                 "date": "30/09",
                 "lines": [
                     "Sonoro vs Sonoro",
-                    "El Puente Espacio de Arte y Bar(Buenos Aires-Argentina )"
+                    "El Puente Espacio de Arte y Bar( Buenos Aires-Argentina )"
                 ]
             },
             {
@@ -1016,14 +1016,14 @@
                 "lines": [
                     "Rupestroide",
                     "solo set  Composiciones para Cello/Solo",
-                    "Una Casa (Buenos Aires-Argentina )"
+                    "Una Casa ( Buenos Aires-Argentina )"
                 ]
             },
             {
                 "date": "15/09",
                 "lines": [
-                    "Ana Gonzalez (Cello), Juan Ciocco (Percusión)",
-                    "ATOM (Buenos Aires-Argentina )"
+                    "Ana Gonzalez ( Cello ), Juan Ciocco ( Percusión )",
+                    "ATOM ( Buenos Aires-Argentina )"
                 ]
             },
             {
@@ -1031,7 +1031,7 @@
                 "lines": [
                     "Ciclo Delectro",
                     "Huenun Ensamble Visual Sonoro",
-                    "Kowalski(Buenos Aires-Argentina )"
+                    "Kowalski( Buenos Aires-Argentina )"
                 ]
             },
             {
@@ -1044,14 +1044,14 @@
                 "date": "31/07",
                 "lines": [
                     "Triciclo - Encuentro para improvisar",
-                    "algún lugar  (Buenos Aires-Argentina )"
+                    "algún lugar  ( Buenos Aires-Argentina )"
                 ]
             },
             {
                 "date": "29/07",
                 "lines": [
                     "solo set  Composiciones para Cello/Solo",
-                    "ATOM (Buenos Aires-Argentina )"
+                    "ATOM ( Buenos Aires-Argentina )"
                 ]
             },
             {
@@ -1059,7 +1059,7 @@
                 "lines": [
                     "Festival Circuitos Integrados",
                     "Huenun Ensamble Visual Sonoro",
-                    ". Espacio Belgrado  (Buenos Aires-Argentina )"
+                    ". Espacio Belgrado  ( Buenos Aires-Argentina )"
                 ]
             },
             {
@@ -1067,7 +1067,7 @@
                 "lines": [
                     "Nazca volumen II",
                     "Huenun Ensamble Visual Sonoro",
-                    "Casa Nazca (Buenos Aires-Argentina )"
+                    "Casa Nazca ( Buenos Aires-Argentina )"
                 ]
             },
             {
@@ -1075,51 +1075,51 @@
                 "lines": [
                     "Laboratorio FedeRatas + un invitado de honor SeñoritoCaballera.",
                     "Espacio Clanartistik",
-                    "(Buenos Aires-Argentina )"
+                    "( Buenos Aires-Argentina )"
                 ]
             },
             {
                 "date": "17/06",
                 "lines": [
                     "Musica improvisada , equivocada y soñada",
-                    "Una Casa (Buenos Aires-Argentina )"
+                    "Una Casa ( Buenos Aires-Argentina )"
                 ]
             },
             {
                 "date": "29/05",
                 "lines": [
                     "Oda a la contemplación",
-                    "El Emergente  (Buenos Aires-Argentina )"
+                    "El Emergente  ( Buenos Aires-Argentina )"
                 ]
             },
             {
                 "date": "02/04",
                 "lines": [
                     "Musica improvisada , equivocada y soñada",
-                    "Una Casa (Buenos Aires-Argentina )"
+                    "Una Casa ( Buenos Aires-Argentina )"
                 ]
             },
             {
                 "date": "19/03",
                 "lines": [
                     "Ciclo Decibel : Improvised and Experimental Music",
-                    "Una Casa (Buenos Aires-Argentina )",
-                    "​"
+                    "Una Casa ( Buenos Aires-Argentina )",
+                    ""
                 ]
             },
             {
                 "date": "26/02",
                 "lines": [
                     "Recital de violoncello y Marimba",
-                    "Casa de la Cultura Ecuatoriana Nucleo de Tungurahua (Ambato –Ecuador)",
-                    "​"
+                    "Casa de la Cultura Ecuatoriana Nucleo de Tungurahua ( Ambato –Ecuador )",
+                    ""
                 ]
             },
             {
                 "date": "14/01",
                 "lines": [
                     "Festival internación de música y artes sonoras contemporáneas",
-                    "Museo Arte Moderno Cuenca. (Cuenca- Ecuador )"
+                    "Museo Arte Moderno Cuenca. ( Cuenca- Ecuador )"
                 ]
             }
         ]

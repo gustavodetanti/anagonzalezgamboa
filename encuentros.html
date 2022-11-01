@@ -12,12 +12,37 @@
  </head>
 
 <body>
- 
-    <h2>Encuentros</h2>
+    <header>
+        <div class='logo'>
+        [ Ana Gonzalez Gamboa ]
+    </div>
+    </header>
+<div class='bigtitle'><h2>Encuentros</h2></div>
 <div class='content' ></div>
 
 
+<nav class='main-nav' style='position:relative;'>
+    <a href='home.html'>home</a><br>
+    <a href='bio.html'>bio</a><br>
+<a href='agenda.html'>agenda</a><br>
+<a href='premios.html'>premios</a><br>
+<a href='catalogo.html'>catálogo</a><br>
 
+<a href='festivales.html'>festivales</a><br>
+<a href='encuentros.html'>encuentros</a><br>
+<a href='discografia.html'>discografía</a><br>
+<a href='residencias.html'>residencias</a><br>
+<a href='videos.html'>videos</a><br>
+<a href='fotos.html'>fotos</a><br>
+<a href='podcasts.html'>podcasts</a><br>
+
+
+
+
+
+</nav>
+    <div class='js-app' data-ncerdas='112' data-h='100' data-noise='150'>
+    </div>
 
 
 
@@ -63,8 +88,11 @@ data.push({title,imgs,txt,iframes:videos,links});
 
     str+=`
     
-    <div class='itemThumb' data-index='${i}' ${a.imgs.length>0?'':` style="" `}>
-     <!--<p>${a.txt.split('\n').join('<br>')}</p>-->
+    <div class='itemThumb' data-index='${i}' style="margin-top:-${parseInt(Math.random()*107)}px;margin-right:-${parseInt(Math.random()*47)}px;transform:rotate(${Math.random()*20-10}deg);">
+   
+        <h3>${a.title}</h3> 
+        
+        <!--<p>${a.txt.split('\n').join('<br>')}</p>-->
 <div class='fotos'>${a.imgs.map((im,nn)=>{
 if(nn>0)return "";
 return `<img src='${im}'>`;
@@ -86,7 +114,7 @@ return `${getYoutubeIframe(getYoutubeCode(im.src))}`;
 return `<span>¿ ${im.type} ?</span>`;
 
 }).join('')}</div>   -->
-<h3>${a.title}</h3> 
+
         </div><!-- end itemThumb-->
         
         
@@ -101,7 +129,7 @@ return `<span>¿ ${im.type} ?</span>`;
     [...document.querySelectorAll('.itemThumb')].forEach(function(f){
 
 
-f.style.marginTop =`-${parseInt(Math.random()*17)}px;`
+f.style.border =`2px solid rgb(${parseInt(Math.random()*255)},${parseInt(Math.random()*255)},${parseInt(Math.random()*255)});`
 
     });
 

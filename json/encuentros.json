@@ -50,7 +50,7 @@
             "img/premios/soplo3.webp",
             "img/premios/soplo4.webp"
         ],
-        "txt": "PROYECTO PUKUY / SOPLO DE CURACIÓN\n​ARTE INTERACTIVO - ESCULTURA SONORA - SABERES ANCESTRALES - ANTROPOLOGÍA.",
+        "txt": "PROYECTO PUKUY / SOPLO DE CURACIÓN\nARTE INTERACTIVO - ESCULTURA SONORA - SABERES ANCESTRALES - ANTROPOLOGÍA.",
         "iframes": [
             {
                 "src": "https://www.youtube.com/watch?v=VJJeXjfiFpQ",
@@ -85,7 +85,7 @@
             "img/premios/colectiva7.webp",
             "img/premios/colectiva8.webp"
         ],
-        "txt": "CCO - Jornada de composición colectiva con partituras gráficas y analógicas\n En CCO nos proponemos acceder a una modalidad de creación musical y composición que permita intervenir a músicos e instrumentistas en la creación de una partitura gráfica o analógica de forma colectiva. \n Contaremos con la participación especial del músico y compositor Ariel Gonzáles Losada, quien nos introducirá a las partituras gráficas y analógicas, siendo parte escencial de su propio trabajo como compositor. \n ​\n Buenos Aires - Argentina ",
+        "txt": "CCO - Jornada de composición colectiva con partituras gráficas y analógicas\n En CCO nos proponemos acceder a una modalidad de creación musical y composición que permita intervenir a músicos e instrumentistas en la creación de una partitura gráfica o analógica de forma colectiva. \n Contaremos con la participación especial del músico y compositor Ariel Gonzáles Losada, quien nos introducirá a las partituras gráficas y analógicas, siendo parte escencial de su propio trabajo como compositor. \n \n Buenos Aires - Argentina ",
         "iframes": [],
         "links": [
             {
@@ -98,7 +98,7 @@
     {
         "title": "Música I,E,S",
         "imgs": [],
-        "txt": "Música improvisada, equivocada y soñada \n​\nAixa Levin - voz\nCarolina Rovira - contrabajo \nAna González - chelo\nRicardo Márquez - saxo\nMark Herr - percusión\nGuillermo Novelli - guitarra preparada, flauta, objetos \nSebastian D'Amore - guitarra, instrumentos de viento, objetos\nDavid Herr y Tom Schroeder - filmaciones y animaciones en Super 8",
+        "txt": "Música improvisada, equivocada y soñada \n\nAixa Levin - voz\nCarolina Rovira - contrabajo \nAna González - chelo\nRicardo Márquez - saxo\nMark Herr - percusión\nGuillermo Novelli - guitarra preparada, flauta, objetos \nSebastian D'Amore - guitarra, instrumentos de viento, objetos\nDavid Herr y Tom Schroeder - filmaciones y animaciones en Super 8",
         "iframes": [
             {
                 "src": "https://www.youtube.com/watch?v=iuvkCXXzNFM",
@@ -113,7 +113,7 @@
             "img/premios/delectro1.webp",
             "img/premios/delectro2.webp"
         ],
-        "txt": "Ciclo Delectro\n​Punto de convergencia de las producciones y proyectos provenientes de distintos espacios, principalmente universitarios, pero también de aquellas propuestas que están por fuera de toda escena académica, y que involucran en sus procesos a las nuevas tecnologías.\n​Ana González (violoncello /ovnidrum )  \nMarcos Raviolo (Procesos/stick) \nLorena Díaz (visuales)\nPamela Lucero (visuales)\n         ",
+        "txt": "Ciclo Delectro\nPunto de convergencia de las producciones y proyectos provenientes de distintos espacios, principalmente universitarios, pero también de aquellas propuestas que están por fuera de toda escena académica, y que involucran en sus procesos a las nuevas tecnologías.\nAna González (violoncello /ovnidrum )  \nMarcos Raviolo (Procesos/stick) \nLorena Díaz (visuales)\nPamela Lucero (visuales)\n         ",
         "iframes": [
             {
                 "src": "https://www.youtube.com/watch?v=BBkMOVTJ53s",
@@ -165,7 +165,7 @@
         "links": []
     },
     {
-        "title": "",
+        "title": "Telar",
         "imgs": [
             "img/premios/telar1.webp",
             "img/premios/telar2.webp",
@@ -189,7 +189,7 @@
             "img/premios/cco2.webp",
             "img/premios/cco3.webp"
         ],
-        "txt": " \nCCO X \n​Conciertos Capital del Oeste es un espacio para la experimentación musical y sonora de los músicos del conurbano del Gran Buenos Aires.\n​trío :\nRamiro Molina Sáez , Luis Conde y Pablo Diaz\ndúo\nAna Ana y Cecilia Quinteros\n​organizadores :Juan Marco Litrica, German Troiano, Julian Massa\n​Castelar - Gran Buenos Aires ",
+        "txt": " \nCCO X \nConciertos Capital del Oeste es un espacio para la experimentación musical y sonora de los músicos del conurbano del Gran Buenos Aires.\ntrío :\nRamiro Molina Sáez , Luis Conde y Pablo Diaz\ndúo\nAna Ana y Cecilia Quinteros\norganizadores :Juan Marco Litrica, German Troiano, Julian Massa\nCastelar - Gran Buenos Aires ",
         "iframes": [],
         "links": [
             {

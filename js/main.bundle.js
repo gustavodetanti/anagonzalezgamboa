@@ -174,6 +174,17 @@
   var apdivs;
   var logdiv;
   window.addEventListener("DOMContentLoaded", (event) => {
+    let header = document.body.querySelector("header");
+    if (header) {
+    } else {
+      header = document.createElement("header");
+      document.body.prepend(header);
+    }
+    header.innerHTML = `<header>
+<div class='logo'>
+[ Ana Gonzalez Gamboa ]<br><span> [ Compositora, violoncellista experimental e improvisadora ] </span>
+</div>
+</header>`;
     apdivs = [...document.querySelectorAll(".js-app")];
     logdiv = document.querySelector(".log");
     init();
